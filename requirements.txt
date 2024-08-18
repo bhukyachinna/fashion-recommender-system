@@ -3,4 +3,4 @@ scikit-learn==1.4.0
 streamlit==1.37.1
 pillow==10.4.0
 numpy==1.26.4
-keras==2.10.0
+keras==2.12.0
